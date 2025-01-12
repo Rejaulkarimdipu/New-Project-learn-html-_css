@@ -7,7 +7,7 @@
 }
 body{
   font-family: 'poppins',sens-serif;
-  background:url('/background_img.jpg');
+  background:url('background_img.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -27,7 +27,7 @@ body{
 }
 /* header area */
 #header_area{
-  background: url('/banner_img.jpg');
+  background: url('banner_img.jpg');
   background-size:cover;
   padding: 10px 1%;
   border-radius: 20px;
